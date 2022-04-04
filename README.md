@@ -31,7 +31,7 @@ Scores by school type
 
 they all went up.
 
-#summary
+# summary
 <img width="1024" alt="Screen Shot 2022-04-04 at 6 51 16 PM" src="https://user-images.githubusercontent.com/100255000/161645405-65d13b54-c65e-41ab-9d52-cb3945a686ef.png">
 
 without the 9th graders' scores, Thomas high did great on math and reading. 
